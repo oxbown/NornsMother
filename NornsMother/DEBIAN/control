@@ -1,0 +1,10 @@
+Package: NornsMother
+Version: 0.2.9
+Architecture: armhf
+Maintainer: Oxbown <oxbown@icloud.com>
+Depends: amidiauto (>= 1.01-2), sidekick (>= 0.1.1-7) 
+Section: sound
+Priority: optional
+Description: Organelle patches on Norns via Sidekick.
+ See https://github.com/oxbown/NornsMother/ for more information
+ 
