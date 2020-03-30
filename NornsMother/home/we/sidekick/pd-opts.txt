@@ -1,1 +1,0 @@
-8 /home/we/sidekick/mother/mother.pd   

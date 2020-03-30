@@ -1,0 +1,2 @@
+-path /home/we/sidekick/pdexternals
+/home/we/sidekick/patches/Organelle/mother/mother.pd   
