@@ -1,7 +1,7 @@
 #N canvas 10 50 659 713 10;
 #X obj 163 57 inlet;
 #X obj 159 103 t b b b b b;
-#X msg 520 195 0;
+#X msg 457 136 0;
 #X msg 207 194 rewind;
 #X obj 200 290 textfile;
 #X obj 197 351 f;
@@ -13,7 +13,8 @@
 #X msg 285 516 \; screenLine1 This Patch is not \; screenLine2 compatible
 yet \; screenLine3 \; screenLine4 Oxbown is working on it!! \; screenLine5
 Stay tunned for updates! \;;
-#X msg 268 196 read /home/we/sidekick/mother/version;
+#X msg 300 181 read /home/we/sidekick/patches/Organelle/mother/version
+;
 #X connect 0 0 1 0;
 #X connect 1 0 5 0;
 #X connect 1 1 4 0;
